@@ -225,3 +225,10 @@ As developers, securing our development environment is just as important as writ
 If this repository helped you learn something new, consider giving it a star.
 
 Built for learning, awareness, and developer security.
+
+<br>
+<img src="Command-1.png">
+<br>
+<img src="Command-2.png">
+<br>
+<img src="Command-3.png">
