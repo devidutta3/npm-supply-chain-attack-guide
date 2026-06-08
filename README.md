@@ -2,7 +2,7 @@
 
 Understanding the June 2026 Red Hat npm Package Compromise and how developers can respond.
 
-![Project Cover](images/cover.png)
+<img src="Npm Spply Chain Attack.png">
 
 ---
 
